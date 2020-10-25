@@ -1,4 +1,7 @@
-# artisan-playground
+# Artisan Playground
+
+## Description
+Artisan Playground is a free alternative of TinkerWell app. 
 
 ## Project setup
 ```
